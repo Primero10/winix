@@ -1,0 +1,4 @@
+#!/bin/sh
+cd Winix3.0
+sudo /home/rcuevas/Winix3.0/desarrollo.tcl web &
+

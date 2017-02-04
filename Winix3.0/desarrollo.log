@@ -1,0 +1,60 @@
+26/01/2016 18:55   Conexion   LOCAL                     web             ERROR: invalid command name "mysqlconnect"
+28/01/2016 16:58   Conexion   LOCAL                     web             ERROR: invalid command name "mysqlconnect"
+28/01/2016 17:16   Conexion   LOCAL                     web             ERROR: invalid command name "mysqlconnect"
+04/02/2016 12:39   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:39   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:39   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:39   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:41   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:42   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:44   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:44   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:44   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:44   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:44   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:45   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:45   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:46   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:46   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:46   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:46   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:46   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:46   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:46   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:46   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'root'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:46   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:47   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:47   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:47   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:47   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:47   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:47   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:47   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:47   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:47   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:47   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:47   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 12:47   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 13:40   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+04/02/2016 17:40   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'asd'@'www.desarrollo.int' (using password: YES)
+06/02/2016 10:34   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'rcuevas'@'www.desarrollo.int' (using password: YES)
+12/02/2016 12:12 desarrollo_datos                             web             LOCAL: mysqluse/db server: Unknown database 'desarrollo_datos'
+12/02/2016 12:12 desarrollo_datos                             web             LOCAL: mysqluse/db server: Unknown database 'desarrollo_datos'
+12/02/2016 12:12 desarrollo_datos                             web             LOCAL: mysqluse/db server: Unknown database 'desarrollo_datos'
+12/02/2016 12:12 desarrollo_datos                             web             LOCAL: mysqluse/db server: Unknown database 'desarrollo_datos'
+12/02/2016 12:12 desarrollo_datos                             web             LOCAL: mysqluse/db server: Unknown database 'desarrollo_datos'
+12/02/2016 12:12 desarrollo_datos                             web             LOCAL: mysqluse/db server: Unknown database 'desarrollo_datos'
+12/02/2016 12:12 desarrollo_datos                             web             LOCAL: mysqluse/db server: Unknown database 'desarrollo_datos'
+12/02/2016 12:12 desarrollo_datos                             web             LOCAL: mysqluse/db server: Unknown database 'desarrollo_datos'
+12/02/2016 12:12 desarrollo_datos                             web             LOCAL: mysqluse/db server: Unknown database 'desarrollo_datos'
+12/02/2016 12:12 desarrollo_datos                             web             LOCAL: mysqluse/db server: Unknown database 'desarrollo_datos'
+12/02/2016 12:19 desarrollo_datos                             web             LOCAL: mysqluse/db server: Unknown database 'desarrollo_datos'
+12/02/2016 12:19 desarrollo_datos                             web             LOCAL: mysqluse/db server: Unknown database 'desarrollo_datos'
+12/02/2016 12:19 desarrollo_datos                             web             LOCAL: mysqluse/db server: Unknown database 'desarrollo_datos'
+12/02/2016 12:19 desarrollo_datos                             web             LOCAL: mysqluse/db server: Unknown database 'desarrollo_datos'
+12/02/2016 12:19 desarrollo_datos                             web             LOCAL: mysqluse/db server: Unknown database 'desarrollo_datos'
+12/02/2016 12:19 desarrollo_datos                             web             LOCAL: mysqluse/db server: Unknown database 'desarrollo_datos'
+12/02/2016 12:19 desarrollo_datos                             web             LOCAL: mysqluse/db server: Unknown database 'desarrollo_datos'
+12/02/2016 12:19 desarrollo_datos                             web             LOCAL: mysqluse/db server: Unknown database 'desarrollo_datos'
+12/02/2016 12:19 desarrollo_datos                             web             LOCAL: mysqluse/db server: Unknown database 'desarrollo_datos'
+12/02/2016 12:19 desarrollo_datos                             web             LOCAL: mysqluse/db server: Unknown database 'desarrollo_datos'

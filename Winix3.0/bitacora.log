@@ -1,0 +1,887 @@
+15/03/2016 12:42                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos mensajes
+22/03/2016 18:49   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+22/03/2016 18:49 winix_datos   Configuracion             web             LOCAL: mysqlsel: not mysqltcl handle
+22/03/2016 18:49   Winix_MT   Menu_Winix_MT             web             LOCAL: mysqlsel: not mysqltcl handle
+22/03/2016 19:03   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+22/03/2016 19:03 winix_datos   Configuracion             web             LOCAL: mysqlsel: not mysqltcl handle
+22/03/2016 19:03   Winix_MT   Menu_Winix_MT             web             LOCAL: mysqlsel: not mysqltcl handle
+22/03/2016 19:07                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 19:13                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 19:19                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 19:25                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 19:31                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 19:40   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+22/03/2016 19:40 winix_datos   Configuracion             web             LOCAL: mysqlsel: not mysqltcl handle
+22/03/2016 19:40   Winix_MT   Menu_Winix_MT             web             LOCAL: mysqlsel: not mysqltcl handle
+22/03/2016 19:44                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 19:50                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 19:56                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 20:02                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 20:08                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 20:14                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 20:20                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 20:26                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 20:32                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 20:38                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 20:44                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 20:50                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 20:56                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 21:02                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 21:08                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 21:14                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 21:20                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 21:26                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 21:32                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 21:38                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 21:44                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 21:50                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 21:56                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 22:02                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 22:08                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 22:14                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 22:20                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 22:26                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 22:32                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 22:38                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 22:44                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 22:50                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 22:56                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 23:02                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 23:08                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 23:14                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 23:20                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 23:26                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 23:32                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 23:38                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 23:44                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 23:50                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+22/03/2016 23:56                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 00:02                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 00:08                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 00:14                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 00:20                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 00:26                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 00:32                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 00:38                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 00:44                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 00:50                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 00:56                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 01:02                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 01:08                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 01:14                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 01:20                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 01:26                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 01:32                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 01:38                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 01:44                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 01:50                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 01:56                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 02:02                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 02:08                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 02:14                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 02:20                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 02:26                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 02:32                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 02:38                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 02:44                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 02:50                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 02:56                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 03:02                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 03:08                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 03:14                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 03:20                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 03:26                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 03:32                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 03:38                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 03:44                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 03:50                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 03:56                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 04:02                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 04:08                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 04:14                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 04:20                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 04:26                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 04:32                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 04:38                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 04:44                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 04:50                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 04:56                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 05:02                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 05:08                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 05:14                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 05:20                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 05:26                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 05:32                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 05:38                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 05:44                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 05:50                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 05:56                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 06:02                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 06:08                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 06:14                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 06:20                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 06:26                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 06:32                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 06:38                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 06:44                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 06:50                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 06:56                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 07:02                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 07:08                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 07:14                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 07:20                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 07:26                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 07:32                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 07:38                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 07:44                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 07:50                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 07:56                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 08:02                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 08:08                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 08:14                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 08:20                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 08:26                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 08:32                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 08:38                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 08:44                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 08:50                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 08:56                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 09:02                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 09:08                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 09:14                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 09:20                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 09:26                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 09:32                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 09:38                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 09:44                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 09:50                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 09:56                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 10:02                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 10:08                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 10:14                                        web             LOCAL: mysqlsel: not mysqltcl handle winix_datos mensajes
+23/03/2016 10:21   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+23/03/2016 10:21 winix_datos   Configuracion             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 10:21   Winix_MT   Menu_Winix_MT             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 14:45   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+23/03/2016 14:45 winix_datos   Configuracion             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 14:45   Winix_MT   Menu_Winix_MT             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 15:38   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+23/03/2016 15:38 winix_datos   Configuracion             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 15:38   Winix_MT   Menu_Winix_MT             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 15:39   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+23/03/2016 15:39 winix_datos   Configuracion             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 15:39   Winix_MT   Menu_Winix_MT             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 15:39   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+23/03/2016 15:39 winix_datos   Configuracion             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 15:39   Winix_MT   Menu_Winix_MT             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 15:39   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+23/03/2016 15:39 winix_datos   Configuracion             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 15:39   Winix_MT   Menu_Winix_MT             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 15:40   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+23/03/2016 15:40 winix_datos   Configuracion             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 15:40   Winix_MT   Menu_Winix_MT             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 15:40   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+23/03/2016 15:40 winix_datos   Configuracion             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 15:40   Winix_MT   Menu_Winix_MT             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 16:03   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+23/03/2016 16:03 winix_datos   Configuracion             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 16:03   Winix_MT   Menu_Winix_MT             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 16:16   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+23/03/2016 16:16 winix_datos   Configuracion             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 16:16   Winix_MT   Menu_Winix_MT             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 18:53   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+23/03/2016 18:53 winix_datos   Configuracion             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 18:53   Winix_MT   Menu_Winix_MT             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 19:25   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+23/03/2016 19:25 winix_datos   Configuracion             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 19:25   Winix_MT   Menu_Winix_MT             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 19:26   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+23/03/2016 19:26 winix_datos   Configuracion             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 19:26   Winix_MT   Menu_Winix_MT             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 19:29   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+23/03/2016 19:29 winix_datos   Configuracion             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 19:29   Winix_MT   Menu_Winix_MT             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 20:42   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+23/03/2016 20:42 winix_datos   Configuracion             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 20:42   Winix_MT   Menu_Winix_MT             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 21:08   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+23/03/2016 21:08 winix_datos   Configuracion             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 21:08   Winix_MT   Menu_Winix_MT             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 21:08   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+23/03/2016 21:08 winix_datos   Configuracion             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 21:08   Winix_MT   Menu_Winix_MT             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 21:24   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+23/03/2016 21:24 winix_datos   Configuracion             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 21:24   Winix_MT   Menu_Winix_MT             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 21:24   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+23/03/2016 21:24 winix_datos   Configuracion             web             LOCAL: mysqlsel: not mysqltcl handle
+23/03/2016 21:24   Winix_MT   Menu_Winix_MT             web             LOCAL: mysqlsel: not mysqltcl handle
+24/03/2016 10:20                                                        LOCAL: mysqlsel: not mysqltcl handle  mensajes
+25/03/2016 18:04                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:04                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:04                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:04                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:04                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:04                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:04                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:04                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:20                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:22                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:24   Conexion   LOCAL                     web             ERROR: mysqlconnect/db server: Access denied for user 'root'@'172.16.100.1' (using password: YES)
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:27                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+25/03/2016 18:28                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 13:35   Conexion   LOCAL                     Error           ERROR: mysqlconnect/db server: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+27/03/2016 15:24 briseli_datos   Configuracion             web              No se encontró ningun registro en la tabla Configuración !!!
+27/03/2016 15:24 briseli_datos   Configuracion             web              No se encontró ningun registro en la tabla Configuración !!!
+27/03/2016 15:24 briseli_datos   Configuracion             web              No se encontró ningun registro en la tabla Configuración !!!
+27/03/2016 15:24 briseli_datos   Configuracion             web              No se encontró ningun registro en la tabla Configuración !!!
+27/03/2016 15:24 briseli_datos   Configuracion             web              No se encontró ningun registro en la tabla Configuración !!!
+27/03/2016 15:24 briseli_datos   Configuracion             web              No se encontró ningun registro en la tabla Configuración !!!
+27/03/2016 15:24 briseli_datos   Configuracion             web              No se encontró ningun registro en la tabla Configuración !!!
+27/03/2016 15:24 briseli_datos   Configuracion             web              No se encontró ningun registro en la tabla Configuración !!!
+27/03/2016 15:24 briseli_datos   Configuracion             web              No se encontró ningun registro en la tabla Configuración !!!
+27/03/2016 15:24 briseli_datos   Configuracion             web              No se encontró ningun registro en la tabla Configuración !!!
+27/03/2016 15:24 briseli_datos   Configuracion             web              No se encontró ningun registro en la tabla Configuración !!!
+27/03/2016 15:24 briseli_datos   Configuracion             web              No se encontró ningun registro en la tabla Configuración !!!
+27/03/2016 16:06                                        Error           LOCAL: mysqlsel: not mysqltcl handle briseli_datos tablas
+27/03/2016 16:10                                        Error           LOCAL: mysqlsel: not mysqltcl handle briseli_datos tablas
+27/03/2016 16:16                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 16:17                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 16:18                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 16:24                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 16:43                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 16:45                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 16:57                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 16:57                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 16:59                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 17:01                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 17:03                                        web             LOCAL: can't read "::winix::configuracion(base_LAN)": wrong # args: should be "::winix::tracer var" briseli_datos tablas
+27/03/2016 17:05                                        web             LOCAL: can't read "::winix::configuracion(base_LAN)": wrong # args: should be "::winix::tracer var" briseli_datos tablas
+27/03/2016 17:18                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 17:19                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 17:21                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 17:23                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 17:24                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 17:26                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 17:26                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 17:27                                        web             LOCAL: can't read "::winix::configuracion(base_LAN)": can't read "level": no such variable briseli_datos tablas
+27/03/2016 17:28                                        web             LOCAL: can't read "::winix::configuracion(base_LAN)": can't read "level": no such variable briseli_datos tablas
+27/03/2016 17:30                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 17:30                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 17:32                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 17:33                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 17:35                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 17:38                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 17:39                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 17:41                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 17:45                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 17:49                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+27/03/2016 17:50                                        web             LOCAL: mysqlsel: handle already closed (dangling pointer) briseli_datos tablas
+28/03/2016 13:14                                        Error           LOCAL: mysqlsel/db server: Table 'piloto_datos.tablas' doesn't exist piloto_datos tablas
+28/03/2016 17:01                                        rcuevas         REMOTO: Durante inicia transaccion mysqlexec: not mysqltcl handle
+28/03/2016 17:06                                        rcuevas         REMOTO: Durante inicia transaccion mysqlexec: not mysqltcl handle
+28/03/2016 17:06                                        rcuevas         REMOTO: Durante inicia transaccion mysqlexec: not mysqltcl handle
+28/03/2016 17:11                                        rcuevas         REMOTO: Durante inicia transaccion mysqlexec: not mysqltcl handle
+28/03/2016 17:11                                        rcuevas         REMOTO: Durante inicia transaccion mysqlexec: not mysqltcl handle
+28/03/2016 17:12                                        rcuevas         REMOTO: Durante inicia transaccion mysqlexec: not mysqltcl handle
+28/03/2016 17:12                                        rcuevas         REMOTO: Durante inicia transaccion mysqlexec: not mysqltcl handle
+28/03/2016 17:14                                                        LOCAL: mysqlsel: not mysqltcl handle  mensajes
+28/03/2016 17:16                                        rcuevas         Error impresion: can't read "instancia": no such variable
+28/03/2016 17:25                                        rcuevas         Error impresion: can't read "instancia": no such variable
+28/03/2016 19:18                                                        LOCAL: mysqlsel: not mysqltcl handle  mensajes
+28/03/2016 19:20                                        rcuevas         Error impresion: can't read "instancia": no such variable
+28/03/2016 19:44                                        rcuevas         Error impresion: can't read "top_web": no such variable
+28/03/2016 19:46                                        rcuevas         Error impresion: can't read "anchura": no such variable
+28/03/2016 20:12                                                        LOCAL: mysqlsel: not mysqltcl handle  mensajes
+28/03/2016 20:45                                                        LOCAL: mysqlsel: not mysqltcl handle  mensajes
+29/03/2016 13:00                                                        LOCAL: mysqlsel: not mysqltcl handle  mensajes
+29/03/2016 17:49                                                        LOCAL: mysqlsel: not mysqltcl handle  mensajes
+29/03/2016 18:10                                                        LOCAL: mysqlsel: not mysqltcl handle  mensajes
+29/03/2016 18:27                                                        LOCAL: mysqlsel: not mysqltcl handle  mensajes
+29/03/2016 18:34                                                        LOCAL: mysqlsel: not mysqltcl handle  mensajes
+29/03/2016 18:37                                                        LOCAL: mysqlsel: not mysqltcl handle  mensajes
+29/03/2016 18:38                                        rcuevas         Error impresion: extra characters after close-quote
+29/03/2016 18:39                                                        LOCAL: mysqlsel: not mysqltcl handle  mensajes
+29/03/2016 19:08                                        rcuevas         REMOTO: Durante inicia transaccion mysqlexec: not mysqltcl handle
+29/03/2016 19:09                                        rcuevas         REMOTO: Durante inicia transaccion mysqlexec: not mysqltcl handle
+29/03/2016 19:09                                        rcuevas         REMOTO: Durante inicia transaccion mysqlexec: not mysqltcl handle
+29/03/2016 19:11                                        rcuevas         REMOTO: Durante inicia transaccion mysqlexec: not mysqltcl handle
+29/03/2016 19:11                                        rcuevas         REMOTO: Durante inicia transaccion mysqlexec: not mysqltcl handle
+29/03/2016 19:11                                        rcuevas         REMOTO: Durante inicia transaccion mysqlexec: not mysqltcl handle
+29/03/2016 19:11                                        rcuevas         REMOTO: Durante inicia transaccion mysqlexec: not mysqltcl handle
+29/03/2016 19:13                                        rcuevas         REMOTO: Durante inicia transaccion mysqlexec: not mysqltcl handle
+29/03/2016 19:13                                        rcuevas         REMOTO: Durante inicia transaccion mysqlexec: not mysqltcl handle
+29/03/2016 19:16                                        rcuevas         REMOTO: Durante inicia transaccion mysqlexec: not mysqltcl handle
+29/03/2016 19:16                                        rcuevas         REMOTO: Durante inicia transaccion mysqlexec: not mysqltcl handle
+29/03/2016 19:56                                        rcuevas         REMOTO: Durante inicia transaccion mysqlexec: not mysqltcl handle
+29/03/2016 19:56                                        rcuevas         REMOTO: Durante inicia transaccion mysqlexec: not mysqltcl handle
+29/03/2016 19:57                                        rcuevas         REMOTO: Durante inicia transaccion mysqlexec: not mysqltcl handle
+29/03/2016 19:57                                        rcuevas         REMOTO: Durante inicia transaccion mysqlexec: not mysqltcl handle
+30/03/2016 12:03                                                        LOCAL: mysqlsel: not mysqltcl handle  mensajes
+30/03/2016 14:49                                                        LOCAL: mysqlsel: not mysqltcl handle  mensajes
+30/03/2016 17:04                                                        LOCAL: mysqlsel: not mysqltcl handle  mensajes
+30/03/2016 18:49                                                        LOCAL: mysqlsel: not mysqltcl handle  mensajes
+31/03/2016 12:34                                                        LOCAL: mysqlsel: not mysqltcl handle  mensajes
+05/04/2016 17:27                                                        LOCAL: mysqlsel: not mysqltcl handle  mensajes
+06/04/2016 12:01                                                        LOCAL: mysqlsel: not mysqltcl handle  mensajes
+29/04/2016 20:38                                                        LOCAL: mysqlsel: not mysqltcl handle  mensajes
+04/05/2016 16:21                                                        LOCAL: mysqlsel: not mysqltcl handle  mensajes
+05/05/2016 13:41                                                        LOCAL: mysqlsel: not mysqltcl handle  mensajes
+13/11/2016 17:24                                                        LOCAL: mysqlsel: not mysqltcl handle  mensajes
+13/11/2016 17:28                                                        LOCAL: mysqlsel: not mysqltcl handle  mensajes
